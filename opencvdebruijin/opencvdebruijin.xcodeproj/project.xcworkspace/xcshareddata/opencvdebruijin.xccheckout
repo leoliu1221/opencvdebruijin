@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D570C56-BB29-4BAB-9670-09BE73C2DA9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>opencvdebruijin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6983AA58-3981-4461-A828-223E8D386088</key>
+		<string>ssh://github.com/leolincoln/opencvdebruijin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opencvdebruijin/opencvdebruijin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6983AA58-3981-4461-A828-223E8D386088</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/leolincoln/opencvdebruijin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6983AA58-3981-4461-A828-223E8D386088</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6983AA58-3981-4461-A828-223E8D386088</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opencvdebruijin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
